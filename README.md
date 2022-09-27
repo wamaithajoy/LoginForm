@@ -3,5 +3,5 @@ I created a Login form using VueJs with hard coded credentials which allows a us
 
 <h6>System Requirement</h6>
 The project file requires Vue3 and installed axios
-The link to the [endpoint](https://jsonplaceholder.typicode.com/photos?_start=)
+The link to the endpoint (https://jsonplaceholder.typicode.com/photos?_start=)
 
